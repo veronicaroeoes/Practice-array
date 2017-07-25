@@ -1,0 +1,6 @@
+C:\Academy\projects_new\Ovn08.VektorerOchListor\Ovn8.2.2SortAlphabeticaly\Ovn8.2.2SortAlphabeticaly\bin\Debug\Ovn8.2.2SortAlphabeticaly.exe.config
+C:\Academy\projects_new\Ovn08.VektorerOchListor\Ovn8.2.2SortAlphabeticaly\Ovn8.2.2SortAlphabeticaly\bin\Debug\Ovn8.2.2SortAlphabeticaly.exe
+C:\Academy\projects_new\Ovn08.VektorerOchListor\Ovn8.2.2SortAlphabeticaly\Ovn8.2.2SortAlphabeticaly\bin\Debug\Ovn8.2.2SortAlphabeticaly.pdb
+C:\Academy\projects_new\Ovn08.VektorerOchListor\Ovn8.2.2SortAlphabeticaly\Ovn8.2.2SortAlphabeticaly\obj\Debug\Ovn8.2.2SortAlphabeticaly.csprojResolveAssemblyReference.cache
+C:\Academy\projects_new\Ovn08.VektorerOchListor\Ovn8.2.2SortAlphabeticaly\Ovn8.2.2SortAlphabeticaly\obj\Debug\Ovn8.2.2SortAlphabeticaly.exe
+C:\Academy\projects_new\Ovn08.VektorerOchListor\Ovn8.2.2SortAlphabeticaly\Ovn8.2.2SortAlphabeticaly\obj\Debug\Ovn8.2.2SortAlphabeticaly.pdb
